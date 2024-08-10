@@ -17,9 +17,9 @@ logarithm uses base 2 (that is b = 2) and is frequently used in computer science
 ## Results 
 "I implemented the RTL design, including the nets and wire-level configuration, using the AMD-Xilinx Vivado platform. Additionally, I generated the waveform using the ModelSim platform."
 
-![RTL level design](images/natural_log_RTL.png)
+![RTL level design](natural_log_RTL.png)
 
-![Waveform of this same design](images/wave.png)
+![Waveform of this same design](wave.png)
 
 
 ## Algorithm or State Diagram
