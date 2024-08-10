@@ -1,4 +1,9 @@
 
+# 8 Bit natural Log Implementation using Verilog.
+
+Design and implement a logarithmic function Y = ln(X) for 8 bit inputs using verilog and AMD-xilinx platform.
+
+
 ## Introduction Theory
 Exponential and logarithmic functions are no exception! Much of the
 power of logarithms is their usefulness in solving exponential
